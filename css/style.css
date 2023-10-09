@@ -1,5 +1,5 @@
 body{
-    margin:0;
+    margin: 0;
 }
 .sfondo{
     background-image:url(../img/pattern.png);
@@ -15,4 +15,19 @@ body{
 }
 .colore_testo{
     color: rgb(85, 147, 228);
+}
+ul{
+    margin: auto;
+    padding-left: 20px;  
+}
+.grigio{
+    color: gray;
+}
+#tabella{
+    width: 98%;
+    height: auto;
+}
+.riga_blu{
+    background-color:#2271B3;
+    color: white;
 }
