@@ -1,6 +1,11 @@
 body{
     margin: 0;
 }
+#tutto{
+    margin: 0 ;
+    
+}
+
 .sfondo{
     background-image:url(../img/pattern.png);
     background-color: rgb(85, 147, 228);
@@ -27,7 +32,16 @@ ul{
     width: 98%;
     height: auto;
 }
-.riga_blu{
+
+#riga_blu{
     background-color:#2271B3;
     color: white;
+}
+#riga_celeste{
+    background-color: lightblue;
+    height: 60px;
+}
+#riga_bianca{
+    background-color: white;
+    height: 60px;
 }
