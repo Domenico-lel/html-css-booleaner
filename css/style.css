@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+.sfondo{
+    background-image:url(../img/pattern.png);
+    background-color: rgb(85, 147, 228);
+    background-size: 500px;
+    background-position: top;
+    padding-top: 50px;
+    height: 80px;
+}
+#logo{
+    
+}
