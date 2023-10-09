@@ -10,5 +10,6 @@ body{
     height: 80px;
 }
 #logo{
-    
+    width: 200px;
+    padding: auto;
 }
